@@ -1,0 +1,25 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 30px;
+}
+.heading_div{
+    float: none;
+    background:whitesmoke ;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+}
+#Object_name{
+    white-space: pre-line;
+}
+.footer{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    line-height: 3;
+    background-color: crimson;
+    text-align: center;
+    color: snow;
+    font-size: 20px;
+}
